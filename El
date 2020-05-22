@@ -1,4 +1,4 @@
-%Unite 5
+%Unite 5%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Text b
 implausible adj.	似乎不合情理的；不像真实的
 a wad of det.	一叠
@@ -25,7 +25,86 @@ in hosptital.And there is story about "white" lies,a rich father told his son th
 the son to cultivate a frugal and diligent charactors.
 In a nutshell,people tell little lies for all kinds if reasons,but always content himself with a seemingly right argument.
 %%%%%%Unit 6
-Text a
+Section 2 Initializing the Project%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%55
+hinking differently breeds innovative ideas, but ideas need to grow, and grow into fruition. For college students, campus is the fertile ground for them to sow the seeds of brilliant ideas, water them, tend them, fertilize them and watch them bloom. College in deed offers favorable conditions for students to give full play to their talents, as is elaborated in the following article.
+
+I guess you’re always busy with classes, sports, extracurricular activities and partying. How about adding a business startup to the mix? College campuses provide not only great launching pads for entrepreneurial pursuits, but also the variety of paths that young entrepreneurs can take.
+
+Some well-known entrepreneurs who started their businesses while in college include Bill Gates, Michael Dell, and Mark Zuckerberg. Entrepreneurship that begins in college seems to be booming, and even though the dot.com boom went bust, those heady times encouraged many college students to see entrepreneurship as viable. College students used to think they’d start a business some years after graduation, but many are now raring to go well before they pick up their diplomas.
+
+Entrepreneurs are, by and large, risk-takers, and college students are especially prone to take risks because they are generally unencumbered by family obligations and mortgages. They have grown up with technology, so their skills lend themselves to many tech-based businesses, such as Web design and e-commerce. Business ideas are often stimulated in the rich intellectual atmosphere of a college campus, where professorial advice is freely available, and even more importantly, a market of eager, young consumers is at the fingertips of the budding college entrepreneur with a “better mousetrap” concept that meets a market need.
+
+The college campus is also a great incubator for student businesses because of the pool of students hungry to work for relatively low pay. Online databases for researching businesses are freely available to prospective entrepreneurs. And influential people and possible investors are often more open to being approached by college students than they would be to others.
+
+Many colleges have entrepreneurial programs that provide an excellent foundation
+
+for launching businesses. Some schools have even allocated parts of residence halls to
+
+entrepreneurial students. For those colleges that don’t have programs — and even some that do — students often start entrepreneurial clubs.
+
+The most common piece of advice among experts on collegiate entrepreneurism seems to be — just do it. Don’t wait too long to launch your business. Don’t make excuses for why it won’t work or why you can’t do it. Don’t let fear, lack of money, insufficient time, or other obstacles stand in your way. Even if you fail, you still will have gained a great learning experience.
+
+(381 words)
+
+
+Section 3 Exploring the Field - Text A%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Getting Entrepreneurial with Toilet Paper
+
+Duke sophomore is placing ads before “an unmatched captive audience”
+
+David Jarmul
+
+
+
+Duke sophomore Bryan Silverman, a finalist to become Entrepreneur Magazine’s “College Entrepreneur of 2012,” can tell you the many jokes he’s heard about his newly launched business.
+
+“People say ‘what a crappy idea’ and things like that” when he offers to advertise their businesses on rolls of toilet paper. “But once they get through cracking jokes, they usually love it.”
+
+Yes, that’s correct: Advertising on toilet paper. Silverman and his brother Jordan have convinced restaurants, a bowling alley, a car wash and others to do just that on rolls of bathroom tissue, which they are offering for free to venues that would otherwise have to pay to supply their restroom stalls.
+
+Pause, think, and answer the question.
+
+1. How could the brothers eliminate the threat to people’s health from ads in ink on the toilet paper?
+
+Your Answer: __________________________________________________________________
+
+The brothers hire a manufacturer to print the ads with a soybean-based ink, which they’ve tested for safety. No, the ink doesn’t smear when the paper is used.
+
+Pause, think, and answer the question.
+
+2. Under what possible circumstances did Jordan think of the idea of printing ads on toilet paper?
+
+Your Answer: ___________________________________________________________________
+
+Jordan dreamed up the idea when sitting, appropriately enough, on a toilet seat wishing he had something to read. When he told his younger brother about it, “at first, I pooh-poohed it,” Bryan jokes in a video where he describes why his idea should be honored as the year’s best among entrepreneurial U.S. college students.
+
+Pause, think, and answer the question.
+
+3. In what way can ads on toilet paper help a business?
+
+Your Answer: ___________________________________________________________________
+
+“Our printed toilet paper allows you to reach a targeted audience in a unique way that will certainly catch people’s attention,” says the website for their new company, Star Toilet Paper. “Ads and coupons on toilet paper provide customers with a convenient and fun way to talk about and learn more about your company.”
+
+Several of the first advertisers have included QR codes, or bar codes, that users can scan from inside their stalls to capture a coupon and learn more about the advertiser. Potentially spending minutes instead of seconds with ads that cost about half a cent each, they comprise “an unmatched captive audience,” Bryan says. “We’re offering them amazing deals while they’re sitting on the toilet. If they don’t want to read it, they don’t have to.”
+
+Pause, think, and answer the question.
+
+4. In order to reach a more specifically targeted audience, what do they probably plan to do next?
+
+Your Answer: __________________________________________________________________
+
+The brothers have been handling all aspects of their business, “from sales to social media,”although they hope to hire at least one employee soon. They’ve printed 3 000 rolls of toilet paper so far and plan to produce different versions for men and women, thereby helping advertisers target their audiences.
+
+He and Jordan, who graduated in May from the University of Michigan, are “definitely trying to make this more than just an idea and grow it into a business,” Bryan says.
+
+They’re still testing their concept with both advertisers and users, but have dreams of
+
+becoming “major players” in the commercial toilet paper industry. “We’re hoping to supply anything from a mall to a stadium,” Bryan says.
+
+(440 words)
+
+
 elaborate  v.	精心制作；详尽阐述；详细描述；详细制订adj.	复杂的；详尽的；精心制作的
 raring  adj.	热切；渴望
 prone  adj.	易于遭受
@@ -35,7 +114,43 @@ alley  n.	小巷；
 smear v.	诽谤；（用油性或稀软物质）胡乱涂抹
 venue n.	场地
 coupon n.	优惠券；
-Text b
+
+Section 4 Exploring the Field - Text B%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The Coolest Little Start-Up in America
+
+Bo Burlingham
+
+For TerraCycle’s Tom Szaky, nothing could be cooler — or sweeter — than selling garbage packaged in garbage.
+
+If you’ve browsed in the garden section of your local Home Depot or Wal-Mart recently, you may have seen a new plant food. It comes in a yellow and green shrink-wrapped bottle. It may well be the world’s first commercial product made entirely from garbage. The plant food itself is a so-called vermicompost tea, a brew made from the castings (that is, the poop) of red worms that have feasted on various types of organic waste. The containers are reused soda bottles. The spray tops are the unwanted extras that have been dumped by manufacturers of other spray-on products. Even the boxes that the plant food is shipped in are garbage: They’re the misprinted rejects of major companies.
+
+But the most striking fact about TerraCycle is the age of its co-founder and CEO, Tom Szaky. He is now 24. A Hungarian by birth and a Canadian by upbringing, he was 19 years old and in his freshman year at Princeton University when he launched the company with one of his classmates, Jon Beyer. At the time, they were simply trying to win a business plan competition. They came in fourth — out of the money — but they couldn’t shake the idea that you could build a business selling garbage. And now, five years later, they have done just that. In 2005,TerraCycle had $461 000 in sales, mostly in Canada, where the product was carried by Home Depot and Wal-Mart as well as other chains. With the decision by both retailers to roll it out in their U.S. stores this year, the company’s 2006 sales are expected to top $2.5 million.
+
+“Tom is a unique individual,” says Wes Neece, who was Home Depot’s buyer of gardening supplies, “I have a lot of faith in him. He has surrounded himself with very strong talent to get his ideas to fruition.”
+
+Indeed, except for Szaky and Beyer, who is TerraCycle’s chief technology officer, every one of the 12 people in key positions is a seasoned business veteran with more than a decade of experience in his or her line of work. Most of them, moreover, appear to enjoy having a boss who is barely half their age. “Tom, I believe, is one of the best managers that I’ve ever worked for,” says Eric Smith. “He’s highly motivational. He works as hard as I’ve ever seen anybody work, and he totally empowers you to do what you feel needs to be done. And he is great in front of a customer because he knows his product so well.”
+
+“If you go to a supermarket and buy an organic banana instead of a conventional banana, you’re going to pay twice as much for it,” notes Szaky. “We have an organic product that’s both better and cheaper than the conventional product. What are people going to buy?”
+
+Of course, they’ll buy it only if they know about it, but Szaky has that base covered. He has been extraordinarily adept at generating PR, landing articles in The New York Times and, yes, Inc. even before he had a product to sell. Since then, pieces about TerraCycle have appeared in dozens of newspapers, on several U.S. and Canadian television networks, and in magazines ranging from Time to Business Week to Real Simple. Along the way, Szaky has managed to imbue the entire operation with the aura of an environmental crusade. Through TerraCycle’s Bottle Brigade, for example, he has enlisted elementary schoolchildren (among others) in a campaign to collect used soda bottles for the company, which then contributes five cents per bottle to the school — twice as much as TerraCycle pays recyclers. Thus solid waste is recycled; worthy organizations receive money; environmental consciousness is raised; and the company gets the bottles it needs while sending a potent marketing message, namely, that TerraCycle is not just good for your plants — it’s also good for your planet.
+
+TerraCycle seems to have everything going for it. And yet, looking at it today, you would never guess how often the company has come close to failing. On each occasion, however, an angel appeared in time to rescue Szaky and his project. In the end, TerraCycle proved to be the company that refused to die — and a case study in the power of a big idea.
+
+It was a high school project that led to the creation of TerraCycle. The project involved certain plants that Szaky and his friends had tried to grow in hopes of being able to harvest the buds, but instead they kept getting seeds. They still hadn’t solved the problem when they all went off to college, Szaky to Princeton and his friends to McGill University in Montreal, taking the plant setup with them. There one of the friends learned about fertilizing the plants with worm poop. He proceeded to create a little compost heap in a box in his kitchen, bought a squirm of red worms to put in it, and started feeding them table scraps. By the time Szaky came to visit during the fall of his freshman year, the plants had produced a bumper crop of buds.
+
+As it happened, Szaky had been searching for a business to enter in Princeton’s annual business plan competition to be held in early 2002. The answer came to him as he and his friends were enjoying the fruits of their labor. Worms! If these worms could turn table scraps into such terrific fertilizer, just think what you could do with an army of worms! You could recycle all the organic waste in North America! You could solve the problem of dwindling landfill space! You could replace chemical fertilizers with organic fertilizers! And you could make a fortune!
+
+At a time, TerraCycle was at a crossroads. It had $500 in the bank. Szaky needed a new source of income right away. By then, he and his colleagues had realized that there was more money to be made in a vermicompost tea than in worm poop itself or in solid-waste disposal. The challenge was to brew a tea with a significant shelf life — at least two years. They had made progress on that score, but what would they put the tea in? They couldn’t afford to buy new bottles. They would have to settle for used ones. Szaky recruited a team of students and led them into the streets on a night when Princeton citizens put out their bottles for collection.
+
+But it was not until they returned to the office and began examining their booty that Szaky fully took in what they’d found. He noticed that, although there were many different brands and types of beverage, there were only four bottle sizes by volume, and they all took caps of the same size. Within each of the four size categories, moreover, the bottles had the same height and the same diameter. “That was the big discovery,” says Szaky. “It meant that they could be run through a high-speed bottling machine. That was the moment when it all came together, when we crystallized what we could do in a powerful way. We realized we could make a product entirely from recycled waste. I thought, This is it. This is what we have to do.”
+
+TerraCycle has raised from angels more than $4.3 million, for which Szaky is grateful. They have been relatively hands-off, leaving the company free to find its own way and develop its own character. But he’s beginning to think it may be time to bring in venture capitalists, who will demand financial discipline and bring credibility to the company’s valuation. That’s important because Szaky is already looking ahead to the day when TerraCycle will go public or get acquired. He expects that to happen within five years.
+
+And then what? He says he hasn’t had time to give it much thought and doesn’t want to take his eye off the ball. He might go back to school. He might write a book. He might move to New York City with his girlfriend. He’ll certainly have options.
+
+Come to think of it, he could even retire — at the age of 29.
+
+(1 367 words)
 browse v.	浏览；（在商店里）随便看看；翻阅
 imbue v.	灌输
 aura n.	氛围
@@ -73,11 +188,9 @@ it is because that you've been  taught sometime  that Italy is shaped like a boo
 largely
  
 %%%%Unite7
-Section 2%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Initializing the Project
-These Jobs You've Never Heard of
+Section 2 Initializing the Project%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Teacher, Lawyer, Doctor — when someone says “career,” these classic jobs are the first ones you think about, right? 
+These Jobs You've Never Heard of Teacher, Lawyer, Doctor — when someone says “career,” these classic jobs are the first ones you think about, right? 
 Yet thousands of career choices exist beyond these basics. From jobs at the bleeding edge of change to jobs so ancient you've probably forgotten what they do, the careers you don't know about probably outweigh the ones you do. And in this age of competition, getting further off the beaten trail can be a good way to differentiate yourself from the pack — with awesome and unusual perks. 
 1. Chief Listening Officer
 You may not have heard of a Chief Listening Officer, but they've probably heard from you. One rung higher than a social media manager, CLOs closely monitor social platforms and conversations to keep an eye (and ear!) on what's being said about their company or brand. Your work enables a fast response to any and all complaints, issues, or misinformation.
@@ -99,33 +212,42 @@ Average salary: $26 000 – $84 000
 Futurists are half market researcher and half visionary. In this interdisciplinary career, you examine the present to detect clues to the future. Your predictions about shifting trends help to guide future business decisions. 
 Why it's awesome: You're always ahead of the curve — and this applies to the job market too. In fact, you might predict the jobs that will be on a list like this a decade from now — like Global System Architects, Urban Agriculturalists, and 3D Food-Printer Engineer. Sounds wild, but according to futurist Thomas Frey: “As a rule of thumb, 60 percent of the jobs 10 years from now haven't been invented yet.” 
 Average salary: $33 000 – $111 000 (566 words)
+Dear Julia,
+
+I wonder whether you would be caught up in computational linguist, a recently developed job which helps computers and humans communicate with each other.
+Since you are looking for a job which can differentiate yourself from the pack with awesome and unusual perks lately,taking such a job could be a good way to accomplish your goal. Though it sounds amazing, there are  challenging qualifications you have to meet, on one hand, you should have an interdisciplinary knowledge of artificial intelligence,mathmatics,cognitive psychology,and neuroscience, on the other hand , you should have learnt some specialized konwledge of the application of computers. Maybe these demands are a little bit tricky for me , but I believe you have the ability to meet them in no second.
+There are still so many interesting parts about the job , provided that  you are interested, contact me any time.
+
+Yours sincerely
+
 Section 3%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Text A
 
  You wouldn't expect it from my childhood: I'd grown up poor in Iowa, and I watched my mother struggle to work full-time and raise six kids on her own, while wishing that Prince Charming would come. 
-2 Fast forward a couple of decades, and there I was, living in California and working an executive-level communications and PR job at Nickelodeon, where I'd been for nearly 15 years. I had the financial security that came with my position, including a sizable company pension and a small money market account. I carried my mortgage on a condo as confidently as I carried my Balenciaga bag. 
-3 I was a single woman in her late 30's, and on the whole, things were good. As a senior director of corporate communications, I spent the bulk of my time in the office — and the rest running from studios to offices to sets. But my passion for the job was waning. I wasn't miserable, but I wasn't feeling it anymore. And I was watching the company conduct rounds of layoffs during the recession. 
-4 I'd always vowed that money wouldn't dictate my happiness, but I was used to stability. Changing career paths would likely mean a pay cut. Without a partner or family to support me — not to mention my mortgage, credit card debt and bills — I was afraid to abandon my executive life. Kind of like how people are afraid to abandon a relationship even when it's no longer working. 
+2 Fast forward a couple of decades, and there I was, living in California and working an executive-level communications and PR job at Nickelodeon, where I'd been for nearly 15 years. I had the financial security that came with my position, including a sizable company pension and a small money market account. I carried my mortgage on a condo[n.	(多层公寓中有独立所有权的)一套公寓房间] as confidently as I carried my Balenciaga[n.	【商】巴黎世家] bag. 
+3 I was a single woman in her late 30's, and on the whole, things were good. As a senior director of corporate communications, I spent the bulk of my time in the office — and the rest running from studios to offices to sets. But my passion for the job was waning[v.	亏；(光,势力等)衰落；减少]. I wasn't miserable, but I wasn't feeling it anymore. And I was watching the company conduct rounds of layoffs during the recession. 
+4 I'd always vowed that money wouldn't dictate[v.	决定；口述；支配；强行规定] my happiness, but I was used to stability. Changing career paths would likely mean a pay cut. Without a partner or family to support me — not to mention my mortgage, credit card debt and bills — I was afraid to abandon my executive life. Kind of like how people are afraid to abandon a relationship even when it's no longer working. 
 5 The easy thing would have been to set my sights on a similar job in the same field, but I wanted to try something new. Plotting My Great Escape 
-6 While still working my corporate job, I started taking classes at a local college to see where my interests lay — and if I could be a student again after being out of school for 15 years. I always loved psychology, so two semesters later, I plunged head-first into a graduate program in clinical psychology at night, while working full-time. The days were long, and I was tired, but I felt alive again! 
-7 At work, layoffs were still happening, and I knew that I could be next. I decided if that happened, I'd commit myself to school fulltime. I was actually excited at the possibility! Although my emergency fund would cover me for a few months, I hoped that I'd get a severance package to help with my transition into student-hood. 
-8 When I entered my boss's office one summer morning in 2010, I was surprised with the very walking papers that I'd been expecting. Only, instead of celebrating, I panicked! You know that feeling when you're going to break up with someone, but they beat you to it? It was like that — I was prepared, but scared nonetheless. 
-9 There I was, free from corporate shackles, but not free from my living expenses, graduate school tuition, credit card debt and a home mortgage. Most of my money was in long-term investments and untouchable without paying severe penalties. At least I had gotten the severance package I hoped for — a safety net to recreate my life. 
-10 So I leapt into survival mode, becoming a full-time graduate student at 37 years old. With the assistance of loans, I tackled four classes a semester, so I could complete my degree only a few months after my severance ended. Simultaneously, I pursued PR consulting opportunities to supplement my severance pay and nominal unemployment income. I cut back on luxuries — eating out, manicures and pedicures — and conserved gas whenever possible. Was I Turning Into My Mother? 
-11 I'd like to think of myself as an empowered woman, but when I lost my job, my early childhood experiences with poverty triggered a momentary damsel-in-distress moment. I found myself secretly wishing for my own Prince Charming to rescue me. 
-12 My stomach churned at the notion that I believed in the same fairytale as my mother once did, but I couldn't help it. Meanwhile, some family members advised me to abandon California for a safer, more affordable life in the Midwest with them. I wasn't opposed to moving to another city if the right opportunity presented itself, but my gut said to stay in California. If I were to move, I wanted it to be for a reason — not to run away. Closing One Door Opens Another (or Two) 
+6 While still working my corporate job, I started taking classes at a local college to see where my interests lay — and if I could be a student again after being out of school for 15 years. I always loved psychology, so two semesters later, I plunged[v.	使投入；扔进；浸入；] head-first into a graduate program in clinical psychology at night, while working full-time. The days were long, and I was tired, but I felt alive again! 
+ 7 At work, layoffs were still happening, and I knew that I could be next. I decided if that happened, I'd commit myself to school fulltime. I was actually excited at the possibility! Although my emergency fund would cover me for a few months, I hoped that I'd get a severance[n.	中断；断绝；解雇；辞退] package to help with my transition into student-hood. 
+8 When I entered my boss's office one summer morning in 2010, I was surprised with the very walking papers that I'd been expecting. Only, instead of celebrating, I panicked! You know that feeling when you're going to break up with someone, but they beat you to it? It was like that — I was prepared, but scared nonetheless [adv.	尽管如此]. 
+9 There I was, free from corporate shackles[n.	桎梏；束缚], but not free from my living expenses, graduate school tuition, credit card debt and a home mortgage. Most of my money was in long-term investments and untouchable without paying severe penalties. At least I had gotten the severance package I hoped for — a safety net to recreate my life. 
+10 So I leapt[leap v.	跳；跳跃] into survival mode, becoming a full-time graduate student at 37 years old. With the assistance of loans, I tackled four classes a semester, so I could complete my degree only a few months after my severance ended. Simultaneously, I pursued PR consulting opportunities to supplement my severance pay and nominal unemployment income. I cut back on luxuries — eating out, manicures[n.	修指甲(术)] and pedicures[n.	修脚；] — and conserved gas whenever possible. Was I Turning Into My Mother? 
+11 I'd like to think of myself as an empowered woman, but when I lost my job, my early childhood experiences with poverty triggered a momentary damsel[ ['dæmz(ə)l] n.	闺女；少女；姑娘]-in-distress moment. I found myself secretly wishing for my own Prince Charming to rescue me. 
+12 My stomach churned [ [tʃɜː(r)n] n.	(提制奶油用的)搅乳桶；〈英〉奶桶；【印,纺】黄化鼓v.	制造(奶油等)；]at the notion that I believed in the same fairytale as my mother once did, but I couldn't help it. Meanwhile, some family members advised me to abandon California for a safer, more affordable life in the Midwest with them. I wasn't opposed to moving to another city if the right opportunity presented itself, but my gut said to stay in California. If I were to move, I wanted it to be for a reason — not to run away. Closing One Door Opens Another (or Two) 
 13 A decade earlier, I'd inquired about teaching public relations at the University of Southern California, but the timing hadn't been right. Now, with 15 years of high-profile PR experience, the timing was right. So I began teaching at USC and Pepperdine, while I was still in grad school. 
 14 Two months before I received my degree, the non-profit agency where I was training as a psychotherapist offered me a job overseeing their new outpatient and residential drug treatment facilities. It's an amazing organization called Conscious Recovery, which is run by the CLARE Foundation in Santa Monica, California. 
-15 The position perfectly married both my careers in strategic communications and psychotherapy. People don't realize how closely related psychology and public relations are — many PR campaigns are rooted in the principles of social psychology. 
+15 The position perfectly married both my careers in strategic [ [strə'tiːdʒɪk] adj.	根据全局而安排的；]communications and psychotherapy[.saɪkəʊ'θerəpi]. People don't realize how closely related psychology and public relations are — many PR campaigns are rooted in the principles of social psychology. 
 16 It's proving to be a fun, enterprising experience — one that corporate America never afforded me. I am now changing the world for the better! The Keys to My Very Own Career Castle 
 17 While working at the non-profit agency by day, I searched for an office and networked at night. A little under two years after leaving my PR gig, all of my hard work paid off: I was accepted at a practice that will help me earn my hours working with clients. Jennifer Musselman, M.A., MFTI, proudly hangs above the door of my very own office in Brentwood, Los Angeles. 
-18 Today, I am an adjunct professor who directs the development of a rehab facility — while nearing my goal of becoming a fully licensed psychotherapist. In other words, I'm a world away from my corporate job. Now, more than ever, I trust myself and my capabilities. I've also learned that when the going gets tough, I get tougher. 
+18 Today, I am an adjunct[adj.	附属的] professor who directs the development of a rehab[英: [ˈriːˌhæb] n.	〈非正式〉康复；] facility — while nearing my goal of becoming a fully licensed psychotherapist. In other words, I'm a world away from my corporate job. Now, more than ever, I trust myself and my capabilities. I've also learned that when the going gets tough, I get tougher. 
 19 Tackling this challenge at nearly 40 years old was both the most frightening thing I'd ever faced and the most empowering because I did it all on my own! The leap of faith to invest in both my financial future and my personal happiness has made me a stronger, more fulfilled person. 
 (1070 words)
 
+Translating%%%%%%%%%%%%%
+我们的教育机构有很多的例子说明学生们做出正确的职业选择是基于自身想法而不是通过设计。 一个人在没有尝试发掘自身潜能之前就进入职场生涯，这似乎有些听天由命。阿尔伯特·爱因斯坦曾说：“想象力比知识更重要。”所以，传授知识、发掘学生的想象力和潜能，并且给予相应的指导，这是否应该是教师的责任呢?
 
-
-
+There are lots of examples  in our education institutions of the students who make a suitable career choice in view of their own ideas, not plans elaborated by others. One may seem a little resigned to his fate, provided that a person enters a career before they even try to discover where their potential lies. Albert Einstein once said:"imagination is much more crucial than knowledge". Therefore, is the ability to share his wisdom and discover students'imagination and potential, giving corresponding guidance afterwards, should be the responsibility of a teacher.
 
 
 
